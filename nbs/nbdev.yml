@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "LampAI"
+  site-url: "https://AndreRatzenberger.github.io/LampAI"
+  description: "lightweight agents & modular pipelines"
+  repo-branch: main
+  repo-url: "https://github.com/AndreRatzenberger/LampAI"
